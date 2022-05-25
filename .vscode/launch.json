@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http://file:///Users/Stranskad/www/snake/index.html",
+            "request": "launch",
+            "url": "http://file:///Users/Stranskad/www/snake/index.html"
+        }
+    ]
+}
